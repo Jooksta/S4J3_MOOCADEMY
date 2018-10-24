@@ -1,6 +1,6 @@
 # BIENVENUE
 
-Ce repository contient l'exercice "MOOCademy" du Jour 18 de la formation THP. 
+Ce repository contient l'exercice <strong>"MOOCademy"</strong> du Jour 18 de la formation THP. 
 
 Cet exercice consiste à créer une base de données en utilisant Ruby on Rails et Active Record.
 
